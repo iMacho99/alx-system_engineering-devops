@@ -1,2 +1,2 @@
 #!/bin/bash
-cpv -un *.html ../
+cp -un *.html ../
